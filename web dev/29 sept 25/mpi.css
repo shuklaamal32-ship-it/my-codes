@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+.top {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+}
+
+
+.left-box {
+  flex: 1;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.left-box form {
+  display: flex;
+  flex-direction: column;
+}
+
+.left-box label {
+  margin-top: 10px;
+}
+
+.left-box textarea {
+  margin-top: 5px;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.left-box button {
+  margin-top: 15px;
+  padding: 10px;
+  border: none;
+  color: black;
+  cursor: pointer;
+}
+
+
+.right-info {
+  flex: 1;
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 10px;
+}
+
+.bottom {
+  margin-top: 20px;
+}
+
+#message{
+  border: solid 2px;
+  color: white;
+  background-color: black;
+}

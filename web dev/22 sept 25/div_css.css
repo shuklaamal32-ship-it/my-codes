@@ -1,0 +1,21 @@
+.row {
+    display: flex;        
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text {
+    flex: 1;               
+    font-size: 18px;
+}
+
+.image {
+    flex: 1;               
+    text-align: center;    
+}
+
+.image img {
+    max-width: 100%;        
+    height: auto;
+}

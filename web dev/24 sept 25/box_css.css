@@ -1,0 +1,31 @@
+body {
+  font-family: Arial,sans-serif;
+}
+
+.container {
+  display: flex;
+  margin: 25px;
+  gap: 40px;
+}
+
+#left {
+  height: 87vh;
+  width: 70vh;
+  flex: 1;
+  background-color: aqua;
+  padding: 25px 20px 20px 15px;
+  border-radius: 50%;
+  text-align: justify;
+}
+
+#right {
+  height: 70vh;
+  width: 45%;
+  flex: 1;
+  background-color: orange;
+  padding: 25px;
+  border-radius: 20px;
+  padding: 25px 20px 20px 15px;
+  
+  text-align: justify;
+}

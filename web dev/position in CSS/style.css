@@ -1,0 +1,26 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(67, 125, 182);
+}
+.box3{
+ width: 200px;
+    height: 200px;
+    background-color: rgb(169, 150, 66);
+}
+.box4{
+ width: 200px;
+    height: 200px;
+    background-color: rgb(54, 175, 86);
+}

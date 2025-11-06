@@ -1,0 +1,32 @@
+#d1{
+    text-align: center;
+    line-height: 1;
+    letter-spacing:3px ;
+    word-spacing: 10px;
+    text-decoration: wavy;
+}
+#d2{
+     text-align: center;
+    line-height: 1;
+    letter-spacing:3px ;
+    word-spacing: 10px;
+    text-decoration: dotted;
+
+}
+#cd{
+  text-align: left;
+
+}
+#dc{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color: lightblue;
+}

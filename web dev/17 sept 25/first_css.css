@@ -1,0 +1,30 @@
+
+#two{
+    color: blue;
+}
+.c1{
+    color: pink;
+}
+.box{
+    width: 180px;
+    height: 100px;
+    border: 4px dotted darkgoldenrod;
+    margin: auto;
+    background-color: rgb(186, 186, 252);
+}
+.heading{
+    color: red;
+}
+
+
+.main-heading{
+    color: orange;
+}
+
+.featured{
+   color: green;
+}
+
+#main-heading{
+    color: rgb(81, 203, 251);
+}
